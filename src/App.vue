@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h3>louis houston</h3>
+      <h3>/louishouston.github.io/my-web-portfolio/</h3>
     </header>
     <main>
       <section id="about">
