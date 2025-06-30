@@ -15,8 +15,15 @@
 
 
 
-# Updated as of 02/11/2025
+# Updated as of 06/29/2025
 
 
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
+
+Projects displayed
+MultiplayerBingo
+Youtube-Like
+Project Olympia
+CamBoard
+Fishing-Finder

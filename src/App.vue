@@ -8,10 +8,12 @@
         <h2>Louis Houston</h2>
         <h4>Software Engineer</h4>
 
-        <p id="about-body">Hello, my name is Louis Houston.<br> While I'm early in my career, I am dedicated to learning and
+        <p id="about-body">Hello, my name is Louis Houston.<br> While I'm early in my career, I am dedicated to learning
+          and
           growing through personal projects.</p>
-          <h5><a href="https://x.com/LouisRAHouston" target="_blank">X</a> | <a href="https://github.com/LouisHouston"
-            target="_blank">Github</a> | <a href="https://www.linkedin.com/in/louisrahouston/" target="_blank">LinkedIn</a> </h5>
+        <h5><a href="https://x.com/LouisRAHouston" target="_blank">X</a> | <a href="https://github.com/LouisHouston"
+            target="_blank">Github</a> | <a href="https://www.linkedin.com/in/louisrahouston/"
+            target="_blank">LinkedIn</a> </h5>
       </section>
 
 
@@ -19,70 +21,82 @@
         <h2></h2>
 
         <a href="https://youtu.be/o3_EqOKpjfw" target="_blank" class="project-link">
-        <div class="project-box">
+          <div class="project-box">
             <div class="project-header">
-                <img src="../public/bingoProjectLogo.png" class="project-icon" alt="Bingo Game Icon">
-                <h3 class="project-title">Multiplayer Bingo</h3>
+              <img src="../public/bingoProjectLogo.png" class="project-icon" alt="Bingo Game Icon">
+              <h3 class="project-title">Multiplayer Bingo</h3>
             </div>
-            <img src="../public/bingoProjectWebsite.png" class="project-image" alt="Screenshot of login page of Bingo Game">
-            <p class="project-description">A real-time multiplayer bingo game with live chat, secure login, and instant game updates. Uses WebSockets for real-time gameplay, bcrypt encryption for authentication, and honeypotting to block bots. Includes separate lobby & global chat for an interactive social experience.</p>
-        </div>
+            <img src="../public/bingoProjectWebsite.png" class="project-image"
+              alt="Screenshot of login page of Bingo Game">
+            <p class="project-description">A real-time multiplayer bingo game with live chat, secure login, and instant
+              game updates. Uses WebSockets for real-time gameplay, bcrypt encryption for authentication, and
+              honeypotting to block bots. Includes separate lobby & global chat for an interactive social experience.
+            </p>
+          </div>
         </a>
-        
+
         <a href="https://youtu.be/suC9moqP8Hc" target="_blank" class="project-link">
-        <div class="project-box">
+          <div class="project-box">
             <div class="project-header">
-                <img src="../public/youtube-likLogo.png" class="project-icon" alt="YouTube-Like Icon">
-                <h3 class="project-title">Youtube-Like</h3>
+              <img src="../public/youtube-likLogo.png" class="project-icon" alt="YouTube-Like Icon">
+              <h3 class="project-title">Youtube-Like</h3>
             </div>
-            <img src="../public/youtube-likeWebsite.png" class="project-image" alt="Picture of database and next to video playing">
-            <p class="project-description">YouTube-like video-sharing platform with secure authentication and optimized storage. Uses SQL, JavaScript, and EJS to manage users and store videos as blobs, while bcrypt encryption ensures secure login. Designed for scalability and efficiency, this project demonstrates full-stack development, database management, and authentication best practices.</p></div>
+            <img src="../public/youtube-likeWebsite.png" class="project-image"
+              alt="Picture of database and next to video playing">
+            <p class="project-description">YouTube-like video-sharing platform with secure authentication and optimized
+              storage. Uses SQL, JavaScript, and EJS to manage users and store videos as blobs, while bcrypt encryption
+              ensures secure login. Designed for scalability and efficiency, this project demonstrates full-stack
+              development, database management, and authentication best practices.</p>
+          </div>
         </a>
 
 
         <a href="https://github.com/LouisHouston/ProjectOlympia" target="_blank" class="project-link">
           <div class="project-box">
             <div class="project-header">
-                <img src="../public/ProjectOlympiaLogo.png" class="project-icon" alt="Project Olympia logo used">
-                <h3 class="project-title">Project Olympia</h3>
+              <img src="../public/ProjectOlympiaLogo.png" class="project-icon" alt="Project Olympia logo used">
+              <h3 class="project-title">Project Olympia</h3>
             </div>
             <img src="../public/ProjectOlympia.png" class="project-image" alt="ProjectOlympia Login Page">
-            <p class="project-description">This Paralympic athlete research tool lets users search for athlete stats using a SQL database and a built-in search feature. It uses the Google API for tracking views, clicks, and university geolocation. The project was previously deployed on AWS and offers an interactive way to explore Paralympic data.</p>
-        </div>
+            <p class="project-description">This Paralympic athlete research tool lets users search for athlete stats
+              using a SQL database and a built-in search feature. It uses the Google API for tracking views, clicks, and
+              university geolocation. The project was previously deployed on AWS and offers an interactive way to
+              explore Paralympic data.</p>
+          </div>
         </a>
 
         <a href="https://youtu.be/4WSXSQeF9A4" target="_blank" class="project-link">
           <div class="project-box">
             <div class="project-header">
-                <img src="../public/CamBoard.png" class="project-icon" alt="YouTube-Like Icon">
-                <h3 class="project-title">CamBoard</h3>
+              <img src="../public/CamBoard.png" class="project-icon" alt="YouTube-Like Icon">
+              <h3 class="project-title">CamBoard</h3>
             </div>
             <img src="../public/CamBoard.png" class="project-image" alt="Screenshot of a user commenting on a video">
-            <p class="project-description">A facial expression recognition system using OpenCV and machine learning, which triggers audio responses based on detected emotions, providing an interactive and dynamic user experience.</p>
-        </div>
+            <p class="project-description">A facial expression recognition system using OpenCV and machine learning,
+              which triggers audio responses based on detected emotions, providing an interactive and dynamic user
+              experience.</p>
+          </div>
         </a>
 
-        
-        <a href="" target="_blank" class="project-link">
-          <div class="project-box empty-box">
-            <div class="project-header">
-                <h3 class="project-title"></h3>
-            </div>
-            <p class="project-description"></p>
-        </div>
-        </a>
 
         <a href="" target="_blank" class="project-link">
-          <div class="project-box empty-box">
+          <div class="project-box">
             <div class="project-header">
-                <h3 class="project-title"></h3>
+              <img src="https://www.svgrepo.com/show/40264/fish.svg"
+            className="size-8 md:size-14 ml-1" class="project-icon" alt="YouTube-Like Icon">
+              <h3 class="project-title">Fishing-Finder</h3>
             </div>
-            <p class="project-description"></p>
-        </div>
+            <img src="../public/fishingfinder.png" class="project-image" alt="Screenshot of a map with fishing holes">
+            <p class="project-description">Fishing Finder is a web application based on the need for an efficient fishing and catch
+              logging system. Users can add a fishing hole to the map and record catches for what kind of fish caught and what bait. Built using React front with Django backend, 
+              postgreSQL with supabase and is hosted on vercel, tailwind for styling.
+            </p>
+          </div>
         </a>
-      
-        
 
+        <div class="project-link"> 
+
+        </div>
 
       </section>
 
@@ -90,9 +104,12 @@
       <section id="Experience">
         <h2>Experience</h2>
         <h4>Qualtrics - Software Apprentice</h4>
-        <p id="experience-desc"> Actively participated in coding teams, collaborating with a group of mentors, who assigned and supervised tasks related to mock-up web application development and tracking user interaction and data collection
-<br> Participated in technical interview training and completed hands-on coding challenges under the guidance and assistance of a mentor.
- </p>
+        <p id="experience-desc"> Actively participated in coding teams, collaborating with a group of mentors, who
+          assigned and supervised tasks related to mock-up web application development and tracking user interaction and
+          data collection
+          <br> Participated in technical interview training and completed hands-on coding challenges under the guidance
+          and assistance of a mentor.
+        </p>
       </section>
     </main>
     <footer>
@@ -142,7 +159,7 @@ body {
 
 a {
   color: #616474;
-  
+
 }
 
 h5 {
@@ -185,7 +202,7 @@ footer {
 
 h3 {
   color: #618a83;
-  font-size: min(4vw,.92rem);
+  font-size: min(4vw, .92rem);
 }
 
 h4 {
@@ -206,7 +223,7 @@ h4 {
 .project-box {
   flex: 1 1 30%;
   min-width: 350px;
-    min-height: 100%;
+  min-height: 100%;
   background-color: #e5eee5;
   border: rgb(64, 64, 64) 1px solid;
   color: rgb(143, 9, 9);
@@ -230,35 +247,35 @@ h4 {
 }
 
 .project-header {
-    display: flex;
-    align-items: center; 
-    justify-content: center; 
-    gap: 10px; 
-    font-size: min(4vw, 2rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: min(4vw, 2rem);
 
 }
 
 .project-icon {
-    width: 24px; 
-    height: 24px;
-    border-radius: 8px;
+  width: 24px;
+  height: 24px;
+  border-radius: 8px;
 }
 
 .project-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin: 0; 
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
 }
 
 .project-image {
-    width: 90%;
-    aspect-ratio: 16 / 9;
-    max-height: 200px;
-    object-fit: cover;
-    border-radius: 3px;
-    margin-top: 1rem;
-    margin-left: 1%;
-    margin-bottom:1.43%;
+  width: 90%;
+  aspect-ratio: 16 / 9;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 3px;
+  margin-top: 1rem;
+  margin-left: 1%;
+  margin-bottom: 1.43%;
 }
 
 @media (hover: hover) {
@@ -270,11 +287,11 @@ h4 {
 }
 
 .project-link {
-    text-decoration: none;
-    color: inherit; 
-    display: inline-block; 
-    flex: 1 1 30%;
-    
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  flex: 1 1 30%;
+
 }
 
 .project-description {
@@ -285,7 +302,7 @@ h4 {
 }
 
 .empty-box {
-  opacity: 0; 
+  opacity: 0;
   pointer-events: none;
 }
 
